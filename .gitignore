@@ -1,0 +1,12 @@
+# Secret API keys
+.env
+core/.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Database & Environments
+db.sqlite3
+env/
+venv/
